@@ -18,3 +18,49 @@ body {
     text-transform: uppercase;
     color: #58595B;
 }
+.nav-link {
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #58595B;
+    margin-right: 25px;
+    margin-top: 5px;
+}
+.logo {
+    margin-left: 160px;
+    margin-right: 100px;
+}
+.title {
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 86px;
+    text-align: center;
+    color: #FFFFFF;
+    position: relative;
+    top: -250px;
+}
+.subtitle { 
+    position: relative;
+    width: 403px;
+    height: 128px;
+    left: 234px;
+    top: -190px;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #58595B;
+    background: #FFFFFF;
+}
+.carousel-indicators {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    border: 1px solid #FFFFFF;
+}
