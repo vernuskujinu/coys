@@ -32,7 +32,7 @@ body {
 }
 .logo {
     margin-left: 160px;
-    margin-right: 100px;
+    margin-right: 50px;
 }
 .title {
     font-weight: 800;
@@ -58,9 +58,44 @@ body {
     color: #58595B;
     background: #FFFFFF;
 }
-.carousel-indicators {
-    width: 16px;
-    height: 16px;
-    border-radius: 50%;
-    border: 1px solid #FFFFFF;
+.btn_lang {
+    margin-top: 10px;
+    background-color: #F9F8F6;
+    border: none;
+    font-size: 12px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #58595B;
+}
+.btn_ua {
+    text-decoration: underline;
+}
+.column {
+    margin: 0;
+}
+.row_flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.promote_text {
+    font-size: 18px;
+}
+.group_text {
+    font-size: 16px;
+}
+.logo_promote {
+    margin-left: 50px;
+}
+.btn_promote {
+    font-size: 14px;
+    line-height: 18px;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: #58595B;
 }
