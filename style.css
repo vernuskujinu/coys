@@ -99,3 +99,6 @@ body {
     text-transform: uppercase;
     color: #58595B;
 }
+.footer_link {
+    margin-right: 5px;
+}
