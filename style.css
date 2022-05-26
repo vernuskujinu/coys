@@ -31,7 +31,7 @@ body {
     margin-top: 5px;
 }
 .logo {
-    margin-left: 160px;
+    margin-left: 150px;
     margin-right: 50px;
 }
 .title {
@@ -45,7 +45,7 @@ body {
 }
 .subtitle { 
     position: relative;
-    width: 403px;
+    width: 410px;
     height: 128px;
     left: 234px;
     top: -190px;
@@ -101,4 +101,34 @@ body {
 }
 .footer_link {
     margin-right: 5px;
+}
+.btn_catalog {
+    width: 330px;
+    height: 38px;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: #58595B;
+    border-bottom: 1px solid #58595B;
+}
+.sale {
+    border-top: 1px solid #58595B;
+    background: #F0DED0;
+}
+.btn_pagination {
+    position: absolute;
+    left: 550px;
+    width: 223px;
+    height: 48px;
+    background: #F0DED0;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: #58595B;
 }
