@@ -99,6 +99,10 @@ body {
     text-transform: uppercase;
     color: #58595B;
 }
+.footer {
+    margin-top: 15px;
+    border-top: 1px solid #58595B;
+}
 .footer_link {
     margin-right: 5px;
 }
@@ -119,6 +123,7 @@ body {
 }
 .btn_pagination {
     position: absolute;
+    margin-top: 15px;
     left: 550px;
     width: 223px;
     height: 48px;
@@ -131,4 +136,69 @@ body {
     letter-spacing: 0.3em;
     text-transform: uppercase;
     color: #58595B;
+}
+.logo_min {
+    margin-top: 1em;
+    margin-left: 150px;
+}
+.panel {
+    max-width: 150px;
+}
+
+.cp {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style: none;
+}
+
+.cp__color {
+    width: 30px;
+    height: 30px;
+    background-color: #CCC;
+    margin: 5px;
+    border: 2px solid transparent;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+
+.cp__color.active {
+    border: 2px solid blue;
+}
+
+.cp__color--red {
+    background-color: red;
+}
+
+.cp__color--green {
+    background-color: green;
+}
+
+.cp__color--blue {
+    background-color: blue;
+}
+
+.cp__color--yellow {
+    background-color: yellow;
+}
+
+.cp__color--purple {
+    background-color: purple;
+}
+
+.cp__color--tomato {
+    background-color: tomato;
+}
+
+.cp__color--grey {
+    background-color: grey;
+}
+
+.cp__color--black {
+    background-color: black;
+}
+
+.cp__color--orange {
+    background-color: orange;
 }
