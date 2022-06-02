@@ -144,6 +144,25 @@ body {
 .panel {
     max-width: 150px;
 }
+.card-title {
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 300;
+    align-items: center;
+    text-align: center;
+    color: #58595B;
+}
+.coast_old {
+    text-decoration: line-through;
+    color: #58595B;
+    text-align: center;
+    font-weight: 300;
+}
+.coast_new {
+    color: #ED4848;
+    text-align: center;
+    font-weight: 300;
+}
 
 .cp {
     display: flex;
