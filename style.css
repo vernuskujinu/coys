@@ -221,3 +221,6 @@ body {
 .cp__color--orange {
     background-color: orange;
 }
+.btn_color {
+    list-style: none;
+}
