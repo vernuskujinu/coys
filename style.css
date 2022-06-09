@@ -245,3 +245,107 @@ body {
 .dropdown_size {
     width: 330px;
 }
+.look_title {
+    margin-top: -30px;
+    text-align: center;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #58595B;
+}
+.look_one {
+    background-color: #F0DED0;
+    height: 900px;
+    width: 1200px;
+}
+.look_two {
+    width: 1055px;
+}
+.component {
+    margin-top: 150px;
+    margin-left: -20px;
+}
+.component-two {
+    margin-top: 150px;
+    margin-left: 50px;
+}
+.look_img-two {
+    width: 600px;
+    height: 900px;
+    margin-left: 12px;
+}
+.bread_link {
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 21px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #58595B;
+    margin-left: 20px;
+}
+.modal-title {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 48px;
+    line-height: 60px;
+    text-align: center;
+    color: #58595B;
+}
+.modal-subtitle {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #58595B;
+}
+.modal-header {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.form-label,.form-check-label {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    color: #58595B;
+}
+
+.btn_login {
+    height: 48px;
+    width: 172px;
+    border-radius: 0px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 18px;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background: #58595B;
+    margin-left: 160px;
+}
+.form_link {
+    color: #C18562;
+}
+.password {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 24px;
+    text-decoration-line: underline;
+    color: #C18562;
+}
