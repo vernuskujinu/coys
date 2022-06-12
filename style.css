@@ -349,3 +349,58 @@ body {
     text-decoration-line: underline;
     color: #C18562;
 }
+.care_intro {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 48px;
+    line-height: 60px;
+    color: #58595B;
+}
+.col_care {
+    width: 332px;
+    height: 390px;
+}
+.care_title {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #58595B;
+}
+.care_subtitle {
+    font-family: 'Roboto Condensed';
+    font-size: 16px;
+    line-height: 24px;
+}
+.accordion_item, .accordion_item_one {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    color: #58595B;
+}
+.accordion_title {
+    font-family: 'Gilroy';
+    font-size: 18px;
+    line-height: 18px;
+    letter-spacing: 0.1em;
+    color: #58595B;
+}
+.accordion_item_one {
+    list-style: none;
+}
+.accordion-button {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #58595B;
+}
