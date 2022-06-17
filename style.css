@@ -261,7 +261,7 @@ body {
     width: 1200px;
 }
 .look_two {
-    width: 1055px;
+    width: 900px;
 }
 .component {
     margin-top: 150px;
@@ -269,12 +269,11 @@ body {
 }
 .component-two {
     margin-top: 150px;
-    margin-left: 50px;
+    margin-left: 65px;
 }
 .look_img-two {
-    width: 600px;
+    width: 612px;
     height: 900px;
-    margin-left: 12px;
 }
 .bread_link {
     text-decoration: none;
@@ -319,7 +318,6 @@ body {
     align-items: center;
     color: #58595B;
 }
-
 .btn_login {
     height: 48px;
     width: 172px;
@@ -349,7 +347,7 @@ body {
     text-decoration-line: underline;
     color: #C18562;
 }
-.care_intro {
+h2 {
     font-family: 'Gilroy';
     font-style: normal;
     font-weight: 300;
@@ -403,4 +401,55 @@ body {
     letter-spacing: 0.1em;
     text-transform: uppercase;
     color: #58595B;
+}
+.contacts_title {
+    text-align: center;
+}
+.phone {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 40px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #58595B;
+}
+.description {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 24px;
+    color: #58595B;
+}
+ .form-label {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    color: #58595B;
+}
+.btn_contacts {
+    width: 274px;
+    height: 48px;
+    background: #58595B;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    border: 1px solid #58595B;
+}
+.map {
+    width: 1200px;
+    height: 522px;
+    background: url('/assets/img/map.jpg');
+}
+.row-contacts {
+    margin-left: 70px;
 }
